@@ -1,0 +1,17 @@
+
+.test {
+	min-height: 500px;
+	background-color: navy;
+}
+
+.reddy {
+	background-color: red;
+}
+
+.go {
+	background-color: green;
+}
+
+.minDiv {
+	min-height: 200px;
+}
